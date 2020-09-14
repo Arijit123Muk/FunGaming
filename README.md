@@ -1,5 +1,5 @@
 # FunGaming
-A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. I have created this project and it consists many games like tic tac toe. It is a multiplayer game and It will automatically detect the winner and display it on screen. If there is a draw then it will dectect it and declare it.
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. <p>I have created this project and it consists many games like tic tac toe. It is a multiplayer game and It will automatically detect the winner and display it on screen. If there is a draw then it will dectect it and declare it.</p>
 
 ## Demo ##
 <a href="https://github.com/Arijit123Muk/FunGaming/tree/master/ScreenShot">
