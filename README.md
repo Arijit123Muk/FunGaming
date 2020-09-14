@@ -1,14 +1,10 @@
 # FunGaming
-
-
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. I have recreated a few screens of our famous flipkart or amazon Starter Kit in Flutter.
+The application that consists different types of Item like t-shirt, phones, cosmetics, etc.
 A new Flutter application that contain multiple games.
-
-## Getting Started
-
 This project is a starting point for a Flutter application and it consists many games like tic tac toe.
 
-###### And Here are the few Screenshot ######
-
+## Demo ##
 <a href="https://github.com/Arijit123Muk/FunGaming/tree/master/ScreenShot">
          <img alt="Qries" src="https://github.com/Arijit123Muk/FunGaming/blob/master/ScreenShot/Main%20Screen.JPG"
          width=300" height="500">
@@ -20,11 +16,47 @@ This project is a starting point for a Flutter application and it consists many 
          <img alt="Qries" src="https://github.com/Arijit123Muk/FunGaming/blob/master/ScreenShot/Tic_Tac_Toe%20Screen_1.JPG"
          width=300" height="500">
          
-For more screenshot open folder Screenshots
-
-
-###### And Here are the working functionality of the app ######
-
 <a href="">
          <img alt="Qries" src="https://github.com/Arijit123Muk/FunGaming/blob/master/ScreenShot/Tic_Tac_Toe%20Screens.gif"
          width=300" height="500">
+         
+For more screenshot open folder Screenshots /a>
+
+
+## Getting Started ##
+ __Note:__ Make sure your Flutter environment is setup.
+
+__Installation__
+In the command terminal, run the following commands:
+```git
+$ git clone https://github.com/Arijit123Muk/E-Shopping.git
+$ cd E-Shopping
+$ flutter run
+```
+
+## Stimulate for iOS ##
+
+###### Method One ######
+```
+Open the project in Xcode from ios/Runner.xcodeproj.
+Hit the play button.
+```
+
+###### Method Two ######
+In the command terminal, run the following commands:
+```
+$ open -a Simulator
+$ flutter doctor
+$ flutter pub get
+$ flutter run
+```
+
+
+## Stimulate for Android ##
+Make sure you have an _Android Emulator_ installed and running.
+Run the following command in your terminal.
+```
+$ flutter doctor
+$ flutter pub get
+$ flutter run
+```
