@@ -20,11 +20,11 @@ This project is a starting point for a Flutter application and it consists many 
          <img alt="Qries" src="https://github.com/Arijit123Muk/FunGaming/blob/master/ScreenShot/Tic_Tac_Toe%20Screens.gif"
          width=300" height="500">
          
-For more screenshot open folder Screenshots /a>
+For more screenshot open folder Screenshots </a>
 
 
 ## Getting Started ##
- __Note:__ Make sure your Flutter environment is setup.
+ __Note:__ Make sure your Flutter environment is setup. If not please read <a href="https://flutter.dev/docs">Flutter Documentation</a>
 
 __Installation__
 In the command terminal, run the following commands:
