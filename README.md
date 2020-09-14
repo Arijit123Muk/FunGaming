@@ -1,8 +1,5 @@
 # FunGaming
-A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. I have recreated a few screens of our famous flipkart or amazon Starter Kit in Flutter.
-The application that consists different types of Item like t-shirt, phones, cosmetics, etc.
-A new Flutter application that contain multiple games.
-This project is a starting point for a Flutter application and it consists many games like tic tac toe.
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter application development. I have created this project and it consists many games like tic tac toe. It is a multiplayer game and It will automatically detect the winner and display it on screen. If there is a draw then it will dectect it and declare it.
 
 ## Demo ##
 <a href="https://github.com/Arijit123Muk/FunGaming/tree/master/ScreenShot">
