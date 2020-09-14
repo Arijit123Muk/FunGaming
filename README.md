@@ -29,7 +29,7 @@ For more screenshot open folder Screenshots </a>
 __Installation__
 In the command terminal, run the following commands:
 ```git
-$ git clone https://github.com/Arijit123Muk/E-Shopping.git
+$ git clone https://github.com/Arijit123Muk/FunGaming.git
 $ cd E-Shopping
 $ flutter run
 ```
