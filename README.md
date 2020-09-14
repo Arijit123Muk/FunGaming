@@ -13,7 +13,7 @@ A new open-source Flutter project that enables the developer to quickly get star
          <img alt="Qries" src="https://github.com/Arijit123Muk/FunGaming/blob/master/ScreenShot/Tic_Tac_Toe%20Screen_1.JPG"
          width=300" height="500">
          
-<a href="">
+<a href="https://github.com/Arijit123Muk/FunGaming/tree/master/ScreenShot">
          <img alt="Qries" src="https://github.com/Arijit123Muk/FunGaming/blob/master/ScreenShot/Tic_Tac_Toe%20Screens.gif"
          width=300" height="500">
          
